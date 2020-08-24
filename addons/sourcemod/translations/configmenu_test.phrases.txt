@@ -1,0 +1,77 @@
+"Phrases"
+{
+	"Configuration Menu"
+	{
+		"en"			"Configuration Menu"
+	}
+	
+	"Load 1v1 Rounds"
+	{
+		"en"			"Load 1v1 RoundsT"
+	}
+
+	"Load 1v1 DM"
+	{
+		"en"			"Load 1v1 DM"
+	}
+
+	"Load AWP"
+	{
+		"en"			"Load AWP"
+	}
+	
+	"Load USP"
+	{
+		"en"			"Load USP"
+	}
+
+	"Enable Fast Equip"
+	{
+		"en"			"Enable Fast Equip"
+	}
+
+	"Disable Fast Equip"
+	{
+		"en"			"Disable Fast Equip"
+	}
+
+	"Enable FFA"
+	{
+		"en"			"Enable FFA"
+	}
+
+	"Disable FFA"
+	{
+		"en"			"Disable FFA"
+	}
+
+	"Enable HS Only"
+	{
+		"en"			"Enable HS Only"
+	}
+
+	"Disable HS Only"
+	{
+		"en"			"Disable HS Only"
+	}
+	
+	"Enable Hitsound"
+	{
+		"en"			"Enable Hitsound"
+	}
+	
+	"Disable Hitsound"
+	{
+		"en"			"Disable Hitsound"
+	}
+		
+	"Enable Instant Respawn"
+	{
+		"en"			"Enable Instant Respawn"
+	}
+		
+	"Disable Instant Respawn"
+	{
+		"en"			"Disable Instant Respawn"
+	}
+}

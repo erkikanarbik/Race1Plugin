@@ -1,0 +1,32 @@
+"Phrases"
+{
+	"Bot Menu"
+	{
+		"en"			"Bot Menu"
+	}
+	
+	"Add Bot T"
+	{
+		"en"			"Add Bot T"
+	}
+
+	"Add Bot CT"
+	{
+		"en"			"Add Bot CT"
+	}
+
+	"Bot Ignore Players"
+	{
+		"en"			"Bot Ignore Players"
+	}
+	
+	"Bot Ignore Players Off"
+	{
+		"en"			"Bot Ignore Players Off"
+	}
+	
+	"Kick Bots"
+	{
+		"en"			"Kick Bots"
+	}
+}
